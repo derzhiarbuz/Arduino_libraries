@@ -1,0 +1,26 @@
+#######################################
+# Syntax Coloring Map For Test
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+DACNCRouter	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setAxisX	KEYWORD2
+setAxisY	KEYWORD2
+setAxisZ	KEYWORD2
+setWorkingInstrument	KEYWORD2
+act         KEYWORD2
+setAxisY	KEYWORD2
+version     KEYWORD2
+lineTo      KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################

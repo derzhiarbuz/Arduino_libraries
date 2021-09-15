@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map For Test
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+vector3d	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+vectorMake	KEYWORD2
+zeroVector	KEYWORD2
+vectorSum	KEYWORD2
+vectorDiff	KEYWORD2
+vectorMul         KEYWORD2
+vectorScalarMul	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
